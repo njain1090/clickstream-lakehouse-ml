@@ -1,0 +1,6 @@
+v1
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470097_0.jsonl","timestamp":1763470098512,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470098_1.jsonl","timestamp":1763470099645,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470099_2.jsonl","timestamp":1763470100743,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470100_3.jsonl","timestamp":1763470101878,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470101_4.jsonl","timestamp":1763470102979,"batchId":0}

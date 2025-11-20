@@ -1,0 +1,15 @@
+v1
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470097_0.jsonl","timestamp":1763470098512,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470098_1.jsonl","timestamp":1763470099645,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470099_2.jsonl","timestamp":1763470100743,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470100_3.jsonl","timestamp":1763470101878,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763470101_4.jsonl","timestamp":1763470102979,"batchId":0}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763490409_0.jsonl","timestamp":1763490409937,"batchId":1}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763490410_1.jsonl","timestamp":1763490410990,"batchId":2}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763490412_2.jsonl","timestamp":1763490412051,"batchId":3}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763490413_3.jsonl","timestamp":1763490413115,"batchId":4}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763490414_4.jsonl","timestamp":1763490414168,"batchId":5}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763549444_0.jsonl","timestamp":1763549444092,"batchId":6}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763549445_1.jsonl","timestamp":1763549445147,"batchId":7}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763549446_2.jsonl","timestamp":1763549446225,"batchId":8}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/landing/raw_events/events_1763549447_3.jsonl","timestamp":1763549447298,"batchId":9}

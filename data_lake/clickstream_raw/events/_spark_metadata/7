@@ -1,0 +1,2 @@
+v1
+{"path":"file:///home/njain/clickstream-lakehouse-ml/data_lake/clickstream_raw/events/part-00000-1585868a-5fb4-44f1-b755-f8865d6c2de2-c000.snappy.parquet","size":1003,"isDir":false,"modificationTime":1763549445369,"blockReplication":1,"blockSize":33554432,"action":"add"}

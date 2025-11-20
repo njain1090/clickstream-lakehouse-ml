@@ -1,0 +1,6 @@
+v1
+{"path":"file:///home/njain/clickstream-lakehouse-ml/data_lake/clickstream_raw/events/part-00000-bda30a2e-e511-4f16-b91f-f58ca26fb28d-c000.snappy.parquet","size":21214,"isDir":false,"modificationTime":1763490157495,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/data_lake/clickstream_raw/events/part-00001-38db95af-8f06-4692-8299-2fabbdc80a33-c000.snappy.parquet","size":21224,"isDir":false,"modificationTime":1763490157495,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/data_lake/clickstream_raw/events/part-00002-db1aa646-85c0-461c-9278-2d5e68b5c371-c000.snappy.parquet","size":21124,"isDir":false,"modificationTime":1763490157495,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/data_lake/clickstream_raw/events/part-00003-6576a31f-1473-44b4-9816-bee0310516d3-c000.snappy.parquet","size":21168,"isDir":false,"modificationTime":1763490157495,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/njain/clickstream-lakehouse-ml/data_lake/clickstream_raw/events/part-00004-f08b1e73-b2a3-4a11-928e-7b8c37b04b9a-c000.snappy.parquet","size":21000,"isDir":false,"modificationTime":1763490157495,"blockReplication":1,"blockSize":33554432,"action":"add"}
